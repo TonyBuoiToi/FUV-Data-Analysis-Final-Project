@@ -1,0 +1,601 @@
+location,date,new_cases
+China,1/1/2021,18
+China,1/2/2021,28
+China,1/3/2021,33
+China,1/4/2021,33
+China,1/5/2021,32
+China,1/6/2021,63
+China,1/7/2021,53
+China,1/8/2021,33
+China,1/9/2021,69
+China,1/10/2021,103
+China,1/11/2021,55
+China,1/12/2021,115
+China,1/13/2021,138
+China,1/14/2021,144
+China,1/15/2021,130
+China,1/16/2021,109
+China,1/17/2021,109
+China,1/18/2021,118
+China,1/19/2021,103
+China,1/20/2021,144
+China,1/21/2021,110
+China,1/22/2021,100
+China,1/23/2021,80
+China,1/24/2021,124
+China,1/25/2021,82
+China,1/26/2021,75
+China,1/27/2021,54
+China,1/28/2021,52
+China,1/29/2021,52
+China,1/30/2021,92
+China,1/31/2021,42
+China,2/1/2021,30
+China,2/2/2021,25
+China,2/3/2021,30
+China,2/4/2021,20
+China,2/5/2021,12
+China,2/6/2021,11
+China,2/7/2021,14
+China,2/8/2021,14
+China,2/9/2021,14
+China,2/10/2021,2
+China,2/11/2021,12
+China,2/12/2021,8
+China,2/13/2021,7
+China,2/14/2021,9
+China,2/15/2021,16
+China,2/16/2021,7
+China,2/17/2021,11
+China,2/18/2021,10
+China,2/19/2021,8
+China,2/20/2021,7
+China,2/21/2021,11
+China,2/22/2021,10
+China,2/23/2021,12
+China,2/24/2021,7
+China,2/25/2021,6
+China,2/26/2021,10
+China,2/27/2021,6
+China,2/28/2021,19
+China,3/1/2021,11
+China,3/2/2021,10
+China,3/3/2021,10
+China,3/4/2021,9
+China,3/5/2021,10
+China,3/6/2021,13
+China,3/7/2021,19
+China,3/8/2021,8
+China,3/9/2021,5
+China,3/10/2021,11
+China,3/11/2021,9
+China,3/12/2021,7
+China,3/13/2021,10
+China,3/14/2021,5
+China,3/15/2021,13
+China,3/16/2021,4
+China,3/17/2021,6
+China,3/18/2021,11
+China,3/19/2021,4
+China,3/20/2021,12
+China,3/21/2021,7
+China,3/22/2021,9
+China,3/23/2021,10
+China,3/24/2021,11
+China,3/25/2021,11
+China,3/26/2021,12
+China,3/27/2021,11
+China,3/28/2021,12
+China,3/29/2021,8
+China,3/30/2021,11
+China,3/31/2021,16
+China,4/1/2021,9
+China,4/2/2021,26
+China,4/3/2021,20
+China,4/4/2021,33
+China,4/5/2021,24
+China,4/6/2021,12
+China,4/7/2021,24
+China,4/8/2021,21
+China,4/9/2021,14
+China,4/10/2021,10
+China,4/11/2021,16
+China,4/12/2021,9
+China,4/13/2021,12
+China,4/14/2021,10
+China,4/15/2021,11
+China,4/16/2021,15
+China,4/17/2021,16
+China,4/18/2021,11
+China,4/19/2021,10
+China,4/20/2021,21
+China,4/21/2021,6
+China,4/22/2021,19
+China,4/23/2021,9
+China,4/24/2021,13
+China,4/25/2021,11
+China,4/26/2021,11
+China,4/27/2021,12
+China,4/28/2021,20
+China,4/29/2021,13
+China,4/30/2021,16
+Russia,1/1/2021,26613
+Russia,1/2/2021,25938
+Russia,1/3/2021,23845
+Russia,1/4/2021,23015
+Russia,1/5/2021,23955
+Russia,1/6/2021,23902
+Russia,1/7/2021,23218
+Russia,1/8/2021,23330
+Russia,1/9/2021,23012
+Russia,1/10/2021,22540
+Russia,1/11/2021,23018
+Russia,1/12/2021,22657
+Russia,1/13/2021,22544
+Russia,1/14/2021,24303
+Russia,1/15/2021,24294
+Russia,1/16/2021,23670
+Russia,1/17/2021,23178
+Russia,1/18/2021,22509
+Russia,1/19/2021,21442
+Russia,1/20/2021,20806
+Russia,1/21/2021,21544
+Russia,1/22/2021,21182
+Russia,1/23/2021,20585
+Russia,1/24/2021,20800
+Russia,1/25/2021,18999
+Russia,1/26/2021,17982
+Russia,1/27/2021,17464
+Russia,1/28/2021,18856
+Russia,1/29/2021,18966
+Russia,1/30/2021,18751
+Russia,1/31/2021,18083
+Russia,2/1/2021,17391
+Russia,2/2/2021,16406
+Russia,2/3/2021,16222
+Russia,2/4/2021,16463
+Russia,2/5/2021,16444
+Russia,2/6/2021,16379
+Russia,2/7/2021,15808
+Russia,2/8/2021,15701
+Russia,2/9/2021,14808
+Russia,2/10/2021,14258
+Russia,2/11/2021,14803
+Russia,2/12/2021,14867
+Russia,2/13/2021,14640
+Russia,2/14/2021,13968
+Russia,2/15/2021,13999
+Russia,2/16/2021,13030
+Russia,2/17/2021,12629
+Russia,2/18/2021,13243
+Russia,2/19/2021,13242
+Russia,2/20/2021,12775
+Russia,2/21/2021,12568
+Russia,2/22/2021,12455
+Russia,2/23/2021,11679
+Russia,2/24/2021,11609
+Russia,2/25/2021,11067
+Russia,2/26/2021,10955
+Russia,2/27/2021,11409
+Russia,2/28/2021,11234
+Russia,3/1/2021,11450
+Russia,3/2/2021,10441
+Russia,3/3/2021,10416
+Russia,3/4/2021,11263
+Russia,3/5/2021,10906
+Russia,3/6/2021,10909
+Russia,3/7/2021,10478
+Russia,3/8/2021,10145
+Russia,3/9/2021,9342
+Russia,3/10/2021,8976
+Russia,3/11/2021,9167
+Russia,3/12/2021,9695
+Russia,3/13/2021,9808
+Russia,3/14/2021,9985
+Russia,3/15/2021,9347
+Russia,3/16/2021,9305
+Russia,3/17/2021,8910
+Russia,3/18/2021,9713
+Russia,3/19/2021,9612
+Russia,3/20/2021,9548
+Russia,3/21/2021,9215
+Russia,3/22/2021,9195
+Russia,3/23/2021,8369
+Russia,3/24/2021,8769
+Russia,3/25/2021,9128
+Russia,3/26/2021,9073
+Russia,3/27/2021,8783
+Russia,3/28/2021,8979
+Russia,3/29/2021,8589
+Russia,3/30/2021,8162
+Russia,3/31/2021,8156
+Russia,4/1/2021,9057
+Russia,4/2/2021,8682
+Russia,4/3/2021,8906
+Russia,4/4/2021,8697
+Russia,4/5/2021,8525
+Russia,4/6/2021,8206
+Russia,4/7/2021,8174
+Russia,4/8/2021,8545
+Russia,4/9/2021,9027
+Russia,4/10/2021,8580
+Russia,4/11/2021,8576
+Russia,4/12/2021,8191
+Russia,4/13/2021,8044
+Russia,4/14/2021,8202
+Russia,4/15/2021,8818
+Russia,4/16/2021,8872
+Russia,4/17/2021,9201
+Russia,4/18/2021,8507
+Russia,4/19/2021,8465
+Russia,4/20/2021,8044
+Russia,4/21/2021,8146
+Russia,4/22/2021,8874
+Russia,4/23/2021,8717
+Russia,4/24/2021,8698
+Russia,4/25/2021,8652
+Russia,4/26/2021,8681
+Russia,4/27/2021,7931
+Russia,4/28/2021,7729
+Russia,4/29/2021,9161
+Russia,4/30/2021,8613
+United States,1/1/2021,166258
+United States,1/2/2021,295879
+United States,1/3/2021,203649
+United States,1/4/2021,181646
+United States,1/5/2021,231243
+United States,1/6/2021,256867
+United States,1/7/2021,288610
+United States,1/8/2021,303461
+United States,1/9/2021,259530
+United States,1/10/2021,213373
+United States,1/11/2021,210837
+United States,1/12/2021,218901
+United States,1/13/2021,229841
+United States,1/14/2021,238043
+United States,1/15/2021,247025
+United States,1/16/2021,208633
+United States,1/17/2021,176591
+United States,1/18/2021,141083
+United States,1/19/2021,164286
+United States,1/20/2021,185394
+United States,1/21/2021,192327
+United States,1/22/2021,189528
+United States,1/23/2021,174863
+United States,1/24/2021,137834
+United States,1/25/2021,142117
+United States,1/26/2021,144781
+United States,1/27/2021,155135
+United States,1/28/2021,167436
+United States,1/29/2021,165847
+United States,1/30/2021,145683
+United States,1/31/2021,115429
+United States,2/1/2021,129368
+United States,2/2/2021,113872
+United States,2/3/2021,123112
+United States,2/4/2021,123927
+United States,2/5/2021,131659
+United States,2/6/2021,110953
+United States,2/7/2021,91883
+United States,2/8/2021,85009
+United States,2/9/2021,94595
+United States,2/10/2021,95832
+United States,2/11/2021,106303
+United States,2/12/2021,100030
+United States,2/13/2021,88854
+United States,2/14/2021,66349
+United States,2/15/2021,54643
+United States,2/16/2021,58604
+United States,2/17/2021,70069
+United States,2/18/2021,71356
+United States,2/19/2021,78185
+United States,2/20/2021,73407
+United States,2/21/2021,57896
+United States,2/22/2021,54838
+United States,2/23/2021,72014
+United States,2/24/2021,75011
+United States,2/25/2021,78058
+United States,2/26/2021,78734
+United States,2/27/2021,66065
+United States,2/28/2021,51867
+United States,3/1/2021,54488
+United States,3/2/2021,57066
+United States,3/3/2021,67149
+United States,3/4/2021,68532
+United States,3/5/2021,66865
+United States,3/6/2021,59295
+United States,3/7/2021,42066
+United States,3/8/2021,44313
+United States,3/9/2021,55806
+United States,3/10/2021,58233
+United States,3/11/2021,62896
+United States,3/12/2021,62073
+United States,3/13/2021,53592
+United States,3/14/2021,38852
+United States,3/15/2021,54768
+United States,3/16/2021,54381
+United States,3/17/2021,59488
+United States,3/18/2021,60525
+United States,3/19/2021,62065
+United States,3/20/2021,57022
+United States,3/21/2021,34978
+United States,3/22/2021,49481
+United States,3/23/2021,53299
+United States,3/24/2021,87121
+United States,3/25/2021,67976
+United States,3/26/2021,77536
+United States,3/27/2021,62223
+United States,3/28/2021,46354
+United States,3/29/2021,67297
+United States,3/30/2021,61437
+United States,3/31/2021,66972
+United States,4/1/2021,79186
+United States,4/2/2021,71849
+United States,4/3/2021,64247
+United States,4/4/2021,36649
+United States,4/5/2021,73153
+United States,4/6/2021,61143
+United States,4/7/2021,74987
+United States,4/8/2021,80252
+United States,4/9/2021,84337
+United States,4/10/2021,69294
+United States,4/11/2021,46443
+United States,4/12/2021,66958
+United States,4/13/2021,79144
+United States,4/14/2021,75316
+United States,4/15/2021,73910
+United States,4/16/2021,80377
+United States,4/17/2021,54161
+United States,4/18/2021,42882
+United States,4/19/2021,66174
+United States,4/20/2021,60920
+United States,4/21/2021,63824
+United States,4/22/2021,66990
+United States,4/23/2021,62380
+United States,4/24/2021,54193
+United States,4/25/2021,33974
+United States,4/26/2021,45660
+United States,4/27/2021,50733
+United States,4/28/2021,55093
+United States,4/29/2021,58913
+United States,4/30/2021,58160
+Vietnam,1/1/2021,9
+Vietnam,1/2/2021,8
+Vietnam,1/3/2021,12
+Vietnam,1/4/2021,3
+Vietnam,1/5/2021,7
+Vietnam,1/6/2021,1
+Vietnam,1/7/2021,4
+Vietnam,1/8/2021,3
+Vietnam,1/9/2021,1
+Vietnam,1/10/2021,1
+Vietnam,1/11/2021,1
+Vietnam,1/12/2021,5
+Vietnam,1/13/2021,1
+Vietnam,1/14/2021,10
+Vietnam,1/15/2021,5
+Vietnam,1/16/2021,1
+Vietnam,1/17/2021,0
+Vietnam,1/18/2021,2
+Vietnam,1/19/2021,1
+Vietnam,1/20/2021,4
+Vietnam,1/21/2021,2
+Vietnam,1/22/2021,2
+Vietnam,1/23/2021,0
+Vietnam,1/24/2021,0
+Vietnam,1/25/2021,1
+Vietnam,1/26/2021,2
+Vietnam,1/27/2021,2
+Vietnam,1/28/2021,98
+Vietnam,1/29/2021,6
+Vietnam,1/30/2021,110
+Vietnam,1/31/2021,50
+Vietnam,2/1/2021,33
+Vietnam,2/2/2021,32
+Vietnam,2/3/2021,66
+Vietnam,2/4/2021,9
+Vietnam,2/5/2021,19
+Vietnam,2/6/2021,9
+Vietnam,2/7/2021,16
+Vietnam,2/8/2021,49
+Vietnam,2/9/2021,14
+Vietnam,2/10/2021,27
+Vietnam,2/11/2021,49
+Vietnam,2/12/2021,2
+Vietnam,2/13/2021,53
+Vietnam,2/14/2021,33
+Vietnam,2/15/2021,41
+Vietnam,2/16/2021,42
+Vietnam,2/17/2021,18
+Vietnam,2/18/2021,18
+Vietnam,2/19/2021,15
+Vietnam,2/20/2021,6
+Vietnam,2/21/2021,15
+Vietnam,2/22/2021,9
+Vietnam,2/23/2021,11
+Vietnam,2/24/2021,9
+Vietnam,2/25/2021,9
+Vietnam,2/26/2021,5
+Vietnam,2/27/2021,6
+Vietnam,2/28/2021,16
+Vietnam,3/1/2021,0
+Vietnam,3/2/2021,27
+Vietnam,3/3/2021,7
+Vietnam,3/4/2021,6
+Vietnam,3/5/2021,6
+Vietnam,3/6/2021,7
+Vietnam,3/7/2021,11
+Vietnam,3/8/2021,12
+Vietnam,3/9/2021,2
+Vietnam,3/10/2021,3
+Vietnam,3/11/2021,4
+Vietnam,3/12/2021,17
+Vietnam,3/13/2021,3
+Vietnam,3/14/2021,1
+Vietnam,3/15/2021,3
+Vietnam,3/16/2021,3
+Vietnam,3/17/2021,7
+Vietnam,3/18/2021,3
+Vietnam,3/19/2021,1
+Vietnam,3/20/2021,1
+Vietnam,3/21/2021,0
+Vietnam,3/22/2021,3
+Vietnam,3/23/2021,0
+Vietnam,3/24/2021,1
+Vietnam,3/25/2021,3
+Vietnam,3/26/2021,7
+Vietnam,3/27/2021,0
+Vietnam,3/28/2021,5
+Vietnam,3/29/2021,3
+Vietnam,3/30/2021,0
+Vietnam,3/31/2021,9
+Vietnam,4/1/2021,14
+Vietnam,4/2/2021,3
+Vietnam,4/3/2021,6
+Vietnam,4/4/2021,5
+Vietnam,4/5/2021,6
+Vietnam,4/6/2021,11
+Vietnam,4/7/2021,11
+Vietnam,4/8/2021,9
+Vietnam,4/9/2021,15
+Vietnam,4/10/2021,9
+Vietnam,4/11/2021,1
+Vietnam,4/12/2021,12
+Vietnam,4/13/2021,9
+Vietnam,4/14/2021,19
+Vietnam,4/15/2021,25
+Vietnam,4/16/2021,14
+Vietnam,4/17/2021,9
+Vietnam,4/18/2021,4
+Vietnam,4/19/2021,6
+Vietnam,4/20/2021,9
+Vietnam,4/21/2021,12
+Vietnam,4/22/2021,12
+Vietnam,4/23/2021,6
+Vietnam,4/24/2021,3
+Vietnam,4/25/2021,10
+Vietnam,4/26/2021,9
+Vietnam,4/27/2021,5
+Vietnam,4/28/2021,8
+Vietnam,4/29/2021,45
+Vietnam,4/30/2021,18
+Zimbabwe,1/1/2021,217
+Zimbabwe,1/2/2021,407
+Zimbabwe,1/3/2021,774
+Zimbabwe,1/4/2021,564
+Zimbabwe,1/5/2021,1365
+Zimbabwe,1/6/2021,610
+Zimbabwe,1/7/2021,871
+Zimbabwe,1/8/2021,985
+Zimbabwe,1/9/2021,839
+Zimbabwe,1/10/2021,978
+Zimbabwe,1/11/2021,820
+Zimbabwe,1/12/2021,942
+Zimbabwe,1/13/2021,1017
+Zimbabwe,1/14/2021,1112
+Zimbabwe,1/15/2021,741
+Zimbabwe,1/16/2021,772
+Zimbabwe,1/17/2021,322
+Zimbabwe,1/18/2021,689
+Zimbabwe,1/19/2021,783
+Zimbabwe,1/20/2021,733
+Zimbabwe,1/21/2021,639
+Zimbabwe,1/22/2021,476
+Zimbabwe,1/23/2021,484
+Zimbabwe,1/24/2021,313
+Zimbabwe,1/25/2021,326
+Zimbabwe,1/26/2021,358
+Zimbabwe,1/27/2021,300
+Zimbabwe,1/28/2021,342
+Zimbabwe,1/29/2021,306
+Zimbabwe,1/30/2021,321
+Zimbabwe,1/31/2021,115
+Zimbabwe,2/1/2021,160
+Zimbabwe,2/2/2021,266
+Zimbabwe,2/3/2021,150
+Zimbabwe,2/4/2021,207
+Zimbabwe,2/5/2021,160
+Zimbabwe,2/6/2021,156
+Zimbabwe,2/7/2021,65
+Zimbabwe,2/8/2021,106
+Zimbabwe,2/9/2021,123
+Zimbabwe,2/10/2021,83
+Zimbabwe,2/11/2021,0
+Zimbabwe,2/12/2021,181
+Zimbabwe,2/13/2021,59
+Zimbabwe,2/14/2021,68
+Zimbabwe,2/15/2021,50
+Zimbabwe,2/16/2021,93
+Zimbabwe,2/17/2021,108
+Zimbabwe,2/18/2021,120
+Zimbabwe,2/19/2021,167
+Zimbabwe,2/20/2021,58
+Zimbabwe,2/21/2021,28
+Zimbabwe,2/22/2021,66
+Zimbabwe,2/23/2021,48
+Zimbabwe,2/24/2021,50
+Zimbabwe,2/25/2021,34
+Zimbabwe,2/26/2021,50
+Zimbabwe,2/27/2021,14
+Zimbabwe,2/28/2021,31
+Zimbabwe,3/1/2021,26
+Zimbabwe,3/2/2021,33
+Zimbabwe,3/3/2021,31
+Zimbabwe,3/4/2021,44
+Zimbabwe,3/5/2021,25
+Zimbabwe,3/6/2021,12
+Zimbabwe,3/7/2021,11
+Zimbabwe,3/8/2021,18
+Zimbabwe,3/9/2021,32
+Zimbabwe,3/10/2021,20
+Zimbabwe,3/11/2021,36
+Zimbabwe,3/12/2021,46
+Zimbabwe,3/13/2021,48
+Zimbabwe,3/14/2021,13
+Zimbabwe,3/15/2021,20
+Zimbabwe,3/16/2021,31
+Zimbabwe,3/17/2021,17
+Zimbabwe,3/18/2021,59
+Zimbabwe,3/19/2021,41
+Zimbabwe,3/20/2021,10
+Zimbabwe,3/21/2021,3
+Zimbabwe,3/22/2021,19
+Zimbabwe,3/23/2021,33
+Zimbabwe,3/24/2021,32
+Zimbabwe,3/25/2021,29
+Zimbabwe,3/26/2021,27
+Zimbabwe,3/27/2021,13
+Zimbabwe,3/28/2021,4
+Zimbabwe,3/29/2021,17
+Zimbabwe,3/30/2021,0
+Zimbabwe,3/31/2021,43
+Zimbabwe,4/1/2021,14
+Zimbabwe,4/2/2021,7
+Zimbabwe,4/3/2021,8
+Zimbabwe,4/4/2021,12
+Zimbabwe,4/5/2021,11
+Zimbabwe,4/6/2021,32
+Zimbabwe,4/7/2021,18
+Zimbabwe,4/8/2021,68
+Zimbabwe,4/9/2021,95
+Zimbabwe,4/10/2021,126
+Zimbabwe,4/11/2021,15
+Zimbabwe,4/12/2021,19
+Zimbabwe,4/13/2021,23
+Zimbabwe,4/14/2021,39
+Zimbabwe,4/15/2021,53
+Zimbabwe,4/16/2021,112
+Zimbabwe,4/17/2021,165
+Zimbabwe,4/18/2021,52
+Zimbabwe,4/19/2021,108
+Zimbabwe,4/20/2021,16
+Zimbabwe,4/21/2021,105
+Zimbabwe,4/22/2021,38
+Zimbabwe,4/23/2021,27
+Zimbabwe,4/24/2021,19
+Zimbabwe,4/25/2021,22
+Zimbabwe,4/26/2021,16
+Zimbabwe,4/27/2021,62
+Zimbabwe,4/28/2021,27
+Zimbabwe,4/29/2021,44
+Zimbabwe,4/30/2021,22
